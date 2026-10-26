@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+home_data.json
+backups/
+*.json.tmp-*
+.coverage
+.venv/
